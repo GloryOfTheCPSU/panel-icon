@@ -1,0 +1,25 @@
+{
+  "name": "panel-icon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GloryOfTheCPSU/panel-icon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GloryOfTheCPSU/panel-icon/issues"
+  },
+  "homepage": "https://github.com/GloryOfTheCPSU/panel-icon#readme"
+}
